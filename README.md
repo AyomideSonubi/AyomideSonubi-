@@ -16,7 +16,7 @@
 <h2> Certifications </h2>
 [CompTia Security +](https://www.credly.com/badges/1afcb62f-8592-4f31-bd8c-b8d02a962109/linked_in_profile)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 
 
 
 [<img align="left" alt="AyomideSonubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
