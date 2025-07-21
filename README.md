@@ -14,7 +14,7 @@
   - [Gopish Phising Simulation)](https://github.com/AyomideSonubi/phishing-campaign-gopish)
 
 <h2> Certifications </h2>
-[CompTia Security +](https://www.credly.com/badges/1afcb62f-8592-4f31-bd8c-b8d02a962109/linked_in_profile)
+[CompTia Security +)](https://www.credly.com/badges/1afcb62f-8592-4f31-bd8c-b8d02a962109/linked_in_profile)
 
 <h2> 🤳 Connect with me:</h2> 
 
