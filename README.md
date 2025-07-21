@@ -22,7 +22,7 @@
 [<img align="left" alt="AyomideSonubi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AyomideSonubi |Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />][Email]
 
-[Email]: https://mail.google.com/mail/u/0/#inbox
+[Email]: https://mail.google.com/Asonubi18
 [linkedin]:https://www.linkedin.com/in/ayomide-sonubi/
 
 <!--
