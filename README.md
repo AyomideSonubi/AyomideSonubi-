@@ -1,6 +1,6 @@
-<h1>Hi, I'm Ayomide! <br/><a href="https://github.com/joshmadakor1">Systems Analyst,</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Asipiring Cybersecurity Porfessional </a>, <a href="https://www.youtube.com/c/joshmadakor">
+<h1>Hi, I'm Ayomide! <br/><a href="https://github.com/joshmadakor1">Systems Analyst,</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Asipiring IT Porfessional </a>, <a href="https://www.youtube.com/c/joshmadakor">
 
-<h2>👨‍💻CyberSecurity Projects:</h2>
+<h2>👨‍💻Projects:</h2>
 
 - <b>File Integrity Monitor (FIM) – Python Project</b>
   - [ It monitors one or more files for unauthorized changes by calculating file hashes and logging any detected modifications.](https://github.com/AyomideSonubi/file-integrity-monitor)
